@@ -4,6 +4,7 @@ import pytest
 test_files = [
     "tests/test_inventory.py",
     "tests/test_login.py",
+    "tests/test_products.py",
     # Agrega aquí otros archivos de prueba según sea necesario
 ]
 
